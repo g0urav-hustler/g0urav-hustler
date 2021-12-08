@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Resumer Name Extractor](https://github.com/g0urav-hustler/Resumer-Name-Extractor/tree/master)**
+- 🔭 I’m currently working on **[Electronic Component Scanner](https://github.com/g0urav-hustler/Electronic-Component-Scanner/tree/master)**
 
 - 🌱 I’m currently learning **OpenCV**
 
