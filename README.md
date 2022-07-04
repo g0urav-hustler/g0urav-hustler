@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I'm Gourav</h1>
+<!-- hii emogi = <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> -->
+<h1 align="center">Hi, I'm Gourav Chouhan</h1>
 <h3 align="center">I'm a passionate Machine Learning Engineer from India.</h3>
 
 
