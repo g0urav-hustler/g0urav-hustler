@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Electronic Component Scanner](https://github.com/g0urav-hustler/Electronic-Component-Scanner/tree/master)**
+- 🔭 I’m currently working on **[Electronic Component Classification](https://github.com/g0urav-hustler/Electronic-Component-Classification/tree/master)**
 
 - 🌱 I’m currently learning **OpenCV**
 
