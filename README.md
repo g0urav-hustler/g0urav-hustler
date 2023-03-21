@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Electronic Component Classification](https://github.com/g0urav-hustler/Electronic-Component-Classification/tree/master)**
+- 🔭 I’m currently working on **[Wafer Project](https://github.com/g0urav-hustler/Wafer-Project/tree/master)**
 
-- 🌱 I’m currently learning **AWS Services**
+- 🌱 I’m currently learning **MLops**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
