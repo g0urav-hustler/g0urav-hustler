@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Wafer Project](https://github.com/g0urav-hustler/Wafer-Project/tree/master)**
+- 🔭 I’m currently working on **[OpenCV-projects](https://github.com/g0urav-hustler/OpenCV-Projects)**
 
-- 🌱 I’m currently learning **MLops**
+- 🌱 I’m currently learning **OpenCV**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
