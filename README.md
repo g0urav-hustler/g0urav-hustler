@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[OpenCV](https://github.com/g0urav-hustler/OpenCV-Projects)**
+- 🔭 I’m currently working on **[OpenCV Projects](https://github.com/g0urav-hustler/OpenCV-Projects)**
 
 - 🌱 I’m currently learning **OpenCV**
 
