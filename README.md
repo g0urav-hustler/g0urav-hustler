@@ -1,6 +1,6 @@
 <!-- hii emogi = <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> -->
 <h1 align="center">Hi, I'm Gourav Chouhan</h1>
-<h3 align="center">I'm a passionate Machine Learning Engineer from India.</h3>
+<h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -49,9 +49,7 @@
 <a href="https://github.com/g0urav-hustler/github-readme-stats"><img alt="Gourav Chouhan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0urav-hustler&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
 <br/>
-
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/gourav-chouhan-3b357a202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
