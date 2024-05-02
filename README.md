@@ -1,13 +1,11 @@
 <!-- hii emogi = <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> -->
 <h1 align="center">Hi, I'm Gourav Chouhan</h1>
-<h3 align="center">I'm a passionate Data Scientist from India.</h3>
+<h3 align="center">I'm a passionate Machine Learning Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[PCB Fault Detection](https://github.com/g0urav-hustler/PCB-Fault-Detection)**
-
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **LLMs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
